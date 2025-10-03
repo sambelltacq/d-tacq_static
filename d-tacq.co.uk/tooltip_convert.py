@@ -12,6 +12,7 @@ replacements = {
     "$DEFS[EPICS]": "<tooltip>EPICS</tooltip>",
     "$DEFS[CSS]": "<tooltip>CSS</tooltip>",
     "$DEFS[dropbear]": "<tooltip>dropbear</tooltip>",
+    "$DEFS[FPGA]": "<tooltip>FPGA</tooltip>",
 
     # Add more as needed
 }
